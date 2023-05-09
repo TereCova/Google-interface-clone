@@ -4,7 +4,7 @@ I was part of the bootcamp TechnolochicasPRO from April to May 2023, I got to le
 ## INDEX💜
 * [1. Intro](https://github.com/TereCova/Google-interface-clone/edit/main/README.md#1-intro)
 * [2. What did I build?](https://github.com/TereCova/Google-interface-clone/edit/main/README.md#2-what-did-i-build)
-* [3. Project's objective](https://github.com/TereCova/Google-interface-clone/edit/main/README.md#2-what-did-i-build)
+* [3. Project's objective]https://github.com/TereCova/Google-interface-clone/blob/main/README.md#3-projects-objective
 
 ****
 ## 1. Intro💜
