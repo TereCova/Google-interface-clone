@@ -2,8 +2,8 @@
 Hi, this was a project I completed while learning about HTML5 and CSS3.
 I was part of the bootcamp TechnolochicasPRO from April to May 2023, I got to learn about HTML5 & CSS3. I created two websites, this one is a clon of Google's homepage.
 ## INDEX💜
-* [1. Intro](https://github.com/TereCova/Google-interface-clone/edit/main/README.md#1-intro)
-* [2. What did I build?](https://github.com/TereCova/Google-interface-clone/edit/main/README.md#2-what-did-i-build)
+* [1. Intro](https://github.com/TereCova/Google-interface-clone/blob/main/README.md#1-intro)
+* [2. What did I build?](https://github.com/TereCova/Google-interface-clone/blob/main/README.md#2-what-did-i-build)
 * [3. Project's objective](https://github.com/TereCova/Google-interface-clone/blob/main/README.md#3-projects-objective)
 
 ****
