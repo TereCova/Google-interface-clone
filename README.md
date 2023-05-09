@@ -22,6 +22,6 @@ It has the following sections:
 
 
 ## 3. Project's objective💜
-Learn to use the standard HTML5 tags and CSS3 styles. 
+Learn how to use the standard HTML5 tags and CSS3 styles. 
 
 Girls in STEM rock!! 🙋🏻‍♀️👱🏽‍♀️👩🏽👧🏽🦋🌺🌻💻💜
